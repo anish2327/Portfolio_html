@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <h1> Anish giri </h1>
+     <img src="anishgiri.webp.jpg" alt="AG" height="150px" width="150px" >
+     <hr />
+    <h2> Education </h2>
+    <ul>
+        <li> <b> 10th class </b> (CBSE) 82.4% </li>
+        <li> 12th class (CBSE) 86% </li>
+        <li> Doing bachelor of technology form dtu (EE) </li>
+
+    </ul>
+    <hr />
+    <h2> Hobbies </h2>
+    <ul>
+        <li> playing CRICKET </li>
+        <li> Reading </li>
+    </ul>
+    <hr />
+    <h2> Skill </h2>
+    <ul>
+        <li> HTML </li>
+        <li> c language </li>
+        <li> python </li>
+        <li> c++ with DSA </li>
+
+      </ul>
+      <hr />
+</body>
+</html>
